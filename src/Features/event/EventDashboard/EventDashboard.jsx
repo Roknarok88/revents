@@ -22,6 +22,7 @@ const eventsFromDashboard = [
         name: "Bob",
         photoURL: "https://randomuser.me/api/portraits/men/20.jpg",
       },
+
       {
         id: "b",
         name: "Tom",
